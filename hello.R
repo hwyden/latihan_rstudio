@@ -1,8 +1,9 @@
-teks1 = "Selamat datang di dunia R"
-teks2 = "Anda akan terkesima dengan kehebatannya"
+"Hello selamat datang di dunia pemrograman R"
 
-teks1
-teks2
+nama = "Yunita Ayu Pratiwi"
+umur = 21
+ipk = 4
 
-list1 = list("Sate kambing", "Gado gado", "Pecel lele")
-list1
+print(nama)
+print(umur)
+print(ipk)
